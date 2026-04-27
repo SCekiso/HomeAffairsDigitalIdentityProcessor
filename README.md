@@ -11,11 +11,11 @@ Citizenship Categorization:Dropdown selection for identifying citizenship status
 Profile Summary Generation:Dynamically generates a "Citizen Summary" profile based on user input.
 
 How the project Works
-1. Input:The user enters their name and a 13-digit South African ID number.
+1. Input: The user enters their name and a 13-digit South African ID number.
 2. Validation: When the user clicks "Validate your ID" button, it runs logic to check the ID format and extract details (like birthdate or gender).
 3. Profiling: When the user clicks the "Create Profile" button, it populates the summary box on the right with the formatted citizen data.
 
-Techn Stack
+Tech Stack
 Language: C#
 Platform:.NET Windows Forms
 IDE: Visual Studio 2022
