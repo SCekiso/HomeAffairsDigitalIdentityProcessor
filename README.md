@@ -27,5 +27,5 @@ If the 11th digit is 0 then the user is a South African Citizen
 If the 11th didgit is 1 then the user is a Permanent Resident!
 
 A Non-Coding Fun Fact!:)
-Since your app is for Home Affairs. Did you know that the very first "Home Affairs" records in South Africa were actually kept in a massive church register 
+Since the project app i created is for Home Affairs. Did you know that the very first "Home Affairs" records in South Africa were actually kept in a massive church register 
 in Cape Town back in the 1600s? We’ve definitely come a long way moving that logic into a C# Windows Form!
